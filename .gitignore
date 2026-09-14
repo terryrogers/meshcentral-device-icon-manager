@@ -1,0 +1,32 @@
+# Runtime data and local configuration
+data/
+.env
+.env.*
+!.env.example
+*.local
+
+# Dependencies, coverage and generated output
+node_modules/
+coverage/
+.nyc_output/
+dist/
+legacy/
+references/
+*.log
+*.tmp
+*.temp
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local project controls and credentials
+AGENTS.md
+*.pem
+*.key
+*.pfx
+*.p12
+secrets/

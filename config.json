@@ -1,0 +1,17 @@
+{
+  "name": "Device Icon Manager",
+  "shortName": "deviceiconmanager",
+  "version": "1.0.9",
+  "author": "The Tech Wizard",
+  "description": "Upload and manage additional MeshCentral device icons numbered 9 through 255.",
+  "hasAdminPanel": true,
+  "homepage": "https://github.com/terryrogers/meshcentral-device-icon-manager",
+  "changelogUrl": "https://raw.githubusercontent.com/terryrogers/meshcentral-device-icon-manager/main/changelog.md",
+  "configUrl": "https://raw.githubusercontent.com/terryrogers/meshcentral-device-icon-manager/main/config.json",
+  "downloadUrl": "https://github.com/terryrogers/meshcentral-device-icon-manager/releases/download/v1.0.9/deviceiconmanager-1.0.9.zip",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/terryrogers/meshcentral-device-icon-manager.git"
+  },
+  "meshCentralCompat": ">=1.2.5"
+}
