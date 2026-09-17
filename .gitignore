@@ -30,3 +30,5 @@ AGENTS.md
 *.pfx
 *.p12
 secrets/
+
+/.tools/
