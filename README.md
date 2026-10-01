@@ -91,7 +91,7 @@ deviceiconmanager.js
 LICENSE
 README.md
 SECURITY.md
-changelog.md
+CHANGELOG.md
 includes/admin.css
 includes/admin.js
 tests/test.js
@@ -108,7 +108,7 @@ and record a SHA-256 checksum.
 
 The retained changelog and package metadata identify built versions 1.0.0
 through 1.0.8. Version 1.0.9 is the first MIT-licensed, sanitized public build.
-See [changelog.md](changelog.md) for the evidence-backed feature history.
+See [CHANGELOG.md](CHANGELOG.md) for the evidence-backed feature history.
 Historical release dates and Git provenance are not asserted because the
 surviving files do not establish them.
 
