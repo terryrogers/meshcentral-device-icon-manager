@@ -32,3 +32,10 @@ AGENTS.md
 secrets/
 
 /.tools/
+
+# Private project lifecycle records
+PROJECT.md
+GOALS.md
+STATUS.md
+DECISIONS.md
+HANDOFFS.md
